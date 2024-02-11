@@ -10,8 +10,15 @@
     "test": "jest"
   },
   "dependencies": {
+    "@gorhom/bottom-sheet": "^4.6.0",
+    "@ptomasroos/react-native-multi-slider": "^2.2.2",
+    "@react-native-community/slider": "^4.5.0",
     "react": "18.2.0",
-    "react-native": "0.73.4"
+    "react-native": "0.73.4",
+    "react-native-calendar-range-picker": "^1.5.8",
+    "react-native-calendars": "^1.1303.0",
+    "react-native-gesture-handler": "^2.15.0",
+    "react-native-reanimated": "^3.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
